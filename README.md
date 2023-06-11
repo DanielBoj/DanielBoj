@@ -1,11 +1,11 @@
 # <img src="https://raw.githubusercontent.com/DanielBoj/DanielBoj/main/pixel-me.png" alt="Logo desarrollador de Daniel Boj" width="60"> Hola, soy Daniel Boj! 👋
-### Estudiante de Desarrollo de Software
+### Estudiante de Desarrollo de Software 🌱
 ### Fullstack Dev | Java Dev
 
 <img src="https://raw.githubusercontent.com/DanielBoj/DanielBoj/main/logo-personal-claro.png" alt="Logo desarrollador de Daniel Boj" width="300">
 
 
-## Techs:
+## Techs 🔭
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 </br>
@@ -25,7 +25,7 @@
 </br>
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 
-## Contacto:
+## Contacto 📫
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](dbojdev@proton.me)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dboj@uoc.edu)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-boj-dev/)
