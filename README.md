@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/DanielBoj/DanielBoj/main/pixel-me.png" alt="Logo desarrollador de Daniel Boj" width="60"> Hola, soy Daniel Boj! 👋
-### Estudiante de Desarrollo de Software 🌱
+### Sys-Admin | Advanced Linux Admin  🌱
 ### Software Dev | Java Dev | Android Dev
 
 <img src="https://raw.githubusercontent.com/DanielBoj/DanielBoj/main/logo-personal-claro.png" alt="Logo desarrollador de Daniel Boj" width="300">
