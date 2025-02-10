@@ -6,10 +6,10 @@
 
 
 ## Techs 🔭
-**Sys-Admin** Linux | Windows
-**Server Admin** - Windows Server | Debian | Ubuntu | Alma | Rocky
-**Security** - Firewall | Encryption | SSL | User Administration | Hardening
-**Virtualization** - Docker - Hyper-V - QEMU
+**Sys-Admin** Linux | Windows</br>
+**Server Admin** - Windows Server | Debian | Ubuntu | Alma | Rocky</br>
+**Security** - Firewall | Encryption | SSL | User Administration | Hardening</br>
+**Virtualization** - Docker | Hyper-V | QEMU</br>
 
 **Developer**
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
