@@ -11,7 +11,7 @@
 **Security** - Firewall | Encryption | SSL | User Administration | Hardening</br>
 **Virtualization** - Docker | Hyper-V | QEMU</br>
 
-**Developer**
+**Developer**</br>
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 </br>
